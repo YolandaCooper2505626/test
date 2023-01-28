@@ -318,3 +318,4 @@ Updated styling and themes - update 49
 Added detailed comments for clarity
 Updated styling and themes - build 658
 Added new feature for better user experience - v3.2.6
+Updated README with new instructions - build 449
