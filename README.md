@@ -322,3 +322,4 @@ Updated README with new instructions - build 449
 Improved user interface design - build 680
 Fixed typo in documentation - update 31
 Updated version number
+Refactored code for better maintainability
