@@ -320,3 +320,4 @@ Updated styling and themes - build 658
 Added new feature for better user experience - v3.2.6
 Updated README with new instructions - build 449
 Improved user interface design - build 680
+Fixed typo in documentation - update 31
