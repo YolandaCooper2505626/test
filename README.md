@@ -365,3 +365,4 @@ Updated project documentation - v7.4.0
 Updated README with new instructions - update 24
 Optimized algorithm for better efficiency
 Refactored code for better maintainability - build 556
+Code cleanup and formatting - 625
