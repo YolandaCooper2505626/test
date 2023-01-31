@@ -359,3 +359,4 @@ Refactored code for better maintainability - v8.8.2
 Updated styling and themes - build 497
 Updated README with new instructions - 106
 Updated styling and themes
+Added input validation
