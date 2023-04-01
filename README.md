@@ -795,3 +795,4 @@ Fixed memory management issue
 Optimized algorithm for better efficiency - build 562
 Refactored code for better maintainability - v8.1.7
 Optimized algorithm for better efficiency - build 480
+Added proper error handling - update 28
