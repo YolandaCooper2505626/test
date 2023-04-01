@@ -791,3 +791,4 @@ Improved performance optimization
 Added comprehensive test coverage - v3.1.7
 Added input validation - build 381
 Updated README with new instructions - build 842
+Fixed memory management issue
