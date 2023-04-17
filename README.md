@@ -30,3 +30,4 @@ Fixed typo in documentation - build 690
 Added detailed comments for clarity - 961
 Improved performance optimization
 Fixed typo in documentation - 555
+Updated README with new instructions - 998
