@@ -750,3 +750,4 @@ Added detailed comments for clarity - v4.5.8
 Added proper error handling - v7.4.9
 Updated styling and themes - build 679
 Added input validation
+Updated README with new instructions - build 420
