@@ -972,3 +972,4 @@ Updated project documentation - update 22
 Updated README with new instructions - build 384
 Added input validation - v7.6.6
 Improved user interface design
+Code cleanup and formatting - v8.1.2
