@@ -974,3 +974,4 @@ Added input validation - v7.6.6
 Improved user interface design
 Code cleanup and formatting - v8.1.2
 Updated styling and themes - build 118
+Fixed typo in documentation - 616
