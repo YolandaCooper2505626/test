@@ -846,3 +846,4 @@ Added new feature for better user experience - v8.9.8
 Updated configuration settings
 Added comprehensive test coverage - 142
 Refactored code for better maintainability - 845
+Added detailed comments for clarity - 412
