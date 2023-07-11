@@ -421,3 +421,4 @@ Code cleanup and formatting - 600
 Code cleanup and formatting - 836
 Updated project documentation
 Updated dependencies to latest versions - v3.3.5
+Added new feature for better user experience - v6.0.0
