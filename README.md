@@ -525,3 +525,4 @@ Updated README with new instructions - v6.1.1
 Added detailed comments for clarity - 714
 Added detailed comments for clarity - update 12
 Added input validation
+Updated project documentation
