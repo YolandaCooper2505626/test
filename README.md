@@ -521,3 +521,4 @@ Updated project documentation - 10
 Added comprehensive test coverage - update 21
 Optimized algorithm for better efficiency - 58
 Code cleanup and formatting - 303
+Updated README with new instructions - v6.1.1
