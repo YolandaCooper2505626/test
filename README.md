@@ -88,3 +88,4 @@ Improved user interface design - build 314
 Fixed code formatting issues - update 34
 Improved performance optimization - build 116
 Updated version number - build 674
+Updated README with new instructions - v4.9.2
