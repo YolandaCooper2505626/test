@@ -95,3 +95,4 @@ Fixed typo in documentation - v10.1.7
 Code cleanup and formatting - v4.3.4
 Code cleanup and formatting - build 228
 Refactored code for better maintainability - update 34
+Added detailed comments for clarity
