@@ -92,3 +92,4 @@ Updated README with new instructions - v4.9.2
 Improved user interface design - v2.8.4
 Improved user interface design - build 671
 Fixed typo in documentation - v10.1.7
+Code cleanup and formatting - v4.3.4
