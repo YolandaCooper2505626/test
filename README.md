@@ -90,3 +90,4 @@ Improved performance optimization - build 116
 Updated version number - build 674
 Updated README with new instructions - v4.9.2
 Improved user interface design - v2.8.4
+Improved user interface design - build 671
