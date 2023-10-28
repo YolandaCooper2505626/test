@@ -333,3 +333,4 @@ Refactored code for better maintainability - build 285
 Added input validation - build 799
 Updated styling and themes - update 29
 Added proper error handling - build 222
+Updated README with new instructions - 393
