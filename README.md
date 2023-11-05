@@ -664,3 +664,4 @@ Fixed typo in documentation - v8.4.7
 Updated project documentation - update 36
 Updated project documentation - update 41
 Code cleanup and formatting
+Fixed memory management issue - 260
