@@ -659,3 +659,4 @@ Added detailed comments for clarity - build 901
 Updated project documentation - v3.5.0
 Fixed memory management issue - build 543
 Updated project documentation - 408
+Updated README with new instructions - 714
