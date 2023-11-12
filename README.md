@@ -701,3 +701,4 @@ Improved user interface design - 707
 Updated version number
 Updated version number
 Fixed typo in documentation - 768
+Added new feature for better user experience - update 40
