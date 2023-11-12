@@ -702,3 +702,4 @@ Updated version number
 Updated version number
 Fixed typo in documentation - 768
 Added new feature for better user experience - update 40
+Updated configuration settings - build 550
