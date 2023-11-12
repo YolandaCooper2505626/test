@@ -707,3 +707,4 @@ Fixed critical bug in main module - update 46
 Updated dependencies to latest versions - 506
 Updated version number - 207
 Added input validation
+Added new feature for better user experience - v2.8.1
