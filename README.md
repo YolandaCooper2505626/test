@@ -723,3 +723,4 @@ Updated project documentation - 80
 Updated version number - update 27
 Updated README with new instructions - build 606
 Updated version number
+Updated dependencies to latest versions - update 21
