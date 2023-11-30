@@ -724,3 +724,4 @@ Updated version number - update 27
 Updated README with new instructions - build 606
 Updated version number
 Updated dependencies to latest versions - update 21
+Code cleanup and formatting - 216
