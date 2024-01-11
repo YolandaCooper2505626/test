@@ -785,3 +785,4 @@ Fixed typo in documentation - build 823
 Updated version number
 Code cleanup and formatting - update 43
 Fixed memory management issue - update 7
+Added detailed comments for clarity - v1.5.7
