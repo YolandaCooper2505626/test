@@ -739,3 +739,4 @@ Updated version number - 115
 Optimized algorithm for better efficiency
 Updated styling and themes
 Added comprehensive test coverage - 812
+Refactored code for better maintainability - v4.4.1
