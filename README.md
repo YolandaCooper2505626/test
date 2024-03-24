@@ -828,3 +828,4 @@ Updated styling and themes
 Fixed critical bug in main module
 Added new feature for better user experience - v2.1.3
 Added new feature for better user experience - update 28
+Fixed critical bug in main module - v7.2.4
