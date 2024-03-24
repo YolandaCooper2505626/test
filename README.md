@@ -834,3 +834,4 @@ Optimized algorithm for better efficiency - update 43
 Code cleanup and formatting - 367
 Code cleanup and formatting - update 9
 Added new feature for better user experience - v9.2.5
+Added detailed comments for clarity
