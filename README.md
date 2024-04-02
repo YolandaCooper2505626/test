@@ -500,3 +500,4 @@ Fixed typo in documentation
 Added input validation
 Updated project documentation
 Code cleanup and formatting - update 47
+Added detailed comments for clarity - 423
