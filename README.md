@@ -884,3 +884,4 @@ Updated project documentation - update 31
 Added input validation - 337
 Updated README with new instructions - build 232
 Updated version number - v4.8.6
+Improved user interface design
