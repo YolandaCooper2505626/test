@@ -896,3 +896,4 @@ Added comprehensive test coverage
 Fixed typo in documentation - update 11
 Added new feature for better user experience - build 728
 Added new feature for better user experience - build 317
+Optimized algorithm for better efficiency - v9.8.3
