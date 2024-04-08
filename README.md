@@ -891,3 +891,4 @@ Updated version number - v1.4.8
 Fixed typo in documentation - 386
 Updated configuration settings - build 334
 Updated project documentation - 577
+Fixed code formatting issues - update 47
