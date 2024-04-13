@@ -924,3 +924,4 @@ Fixed code formatting issues
 Optimized algorithm for better efficiency - update 21
 Added comprehensive test coverage
 Optimized algorithm for better efficiency
+Fixed memory management issue - v8.0.0
