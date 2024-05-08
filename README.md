@@ -864,3 +864,4 @@ Added new feature for better user experience - 139
 Fixed memory management issue - build 451
 Added comprehensive test coverage - v9.9.7
 Added new feature for better user experience
+Added detailed comments for clarity
