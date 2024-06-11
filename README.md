@@ -571,3 +571,4 @@ Optimized algorithm for better efficiency - v9.5.1
 Updated project documentation - update 27
 Improved performance optimization - v9.5.4
 Improved user interface design
+Fixed code formatting issues - update 23
