@@ -577,3 +577,4 @@ Fixed code formatting issues - build 550
 Improved performance optimization - 276
 Optimized algorithm for better efficiency - build 822
 Code cleanup and formatting
+Fixed memory management issue - v2.5.9
