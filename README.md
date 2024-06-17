@@ -182,3 +182,4 @@ Fixed code formatting issues - update 14
 Fixed memory management issue
 Added new feature for better user experience - build 273
 Fixed code formatting issues - v8.8.3
+Refactored code for better maintainability - v1.9.0
