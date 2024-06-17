@@ -184,3 +184,4 @@ Added new feature for better user experience - build 273
 Fixed code formatting issues - v8.8.3
 Refactored code for better maintainability - v1.9.0
 Updated README with new instructions - build 175
+Updated version number - v7.9.4
