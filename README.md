@@ -670,3 +670,4 @@ Updated dependencies to latest versions
 Added new feature for better user experience
 Code cleanup and formatting - 666
 Fixed code formatting issues - v9.2.5
+Updated README with new instructions - build 728
