@@ -643,3 +643,4 @@ Fixed typo in documentation - 156
 Updated project documentation - build 783
 Updated dependencies to latest versions - v2.7.2
 Code cleanup and formatting - v10.2.3
+Updated configuration settings - v5.9.6
