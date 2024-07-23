@@ -452,3 +452,4 @@ Fixed memory management issue - build 496
 Refactored code for better maintainability - update 26
 Fixed memory management issue - update 32
 Fixed typo in documentation - 56
+Updated README with new instructions - update 50
