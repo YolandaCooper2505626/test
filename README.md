@@ -203,3 +203,4 @@ Fixed memory management issue - 894
 Updated dependencies to latest versions - update 5
 Fixed typo in documentation - v9.8.7
 Added detailed comments for clarity - build 693
+Updated configuration settings - v3.7.8
