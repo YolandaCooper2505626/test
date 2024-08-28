@@ -199,3 +199,4 @@ Updated styling and themes
 Improved performance optimization - build 901
 Added new feature for better user experience - build 515
 Fixed code formatting issues - build 577
+Fixed memory management issue - 894
