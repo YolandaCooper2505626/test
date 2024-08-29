@@ -146,3 +146,4 @@ Added input validation - 73
 Fixed typo in documentation - update 42
 Added detailed comments for clarity - build 308
 Improved performance optimization - build 922
+Updated README with new instructions - build 648
