@@ -528,3 +528,4 @@ Added input validation
 Updated project documentation
 Fixed code formatting issues - build 858
 Improved user interface design - 139
+Updated README with new instructions
