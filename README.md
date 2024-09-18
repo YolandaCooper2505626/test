@@ -954,3 +954,4 @@ Refactored code for better maintainability - v6.9.7
 Improved performance optimization
 Fixed code formatting issues
 Updated styling and themes - 546
+Fixed memory management issue - 669
