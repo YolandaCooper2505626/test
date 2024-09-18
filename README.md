@@ -949,3 +949,4 @@ Updated configuration settings
 Fixed code formatting issues
 Code cleanup and formatting
 Refactored code for better maintainability - 250
+Updated README with new instructions - update 44
