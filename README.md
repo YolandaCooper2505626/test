@@ -685,3 +685,4 @@ Fixed code formatting issues - build 360
 Code cleanup and formatting - 837
 Added proper error handling
 Fixed code formatting issues - 999
+Updated README with new instructions - build 247
