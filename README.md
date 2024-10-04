@@ -687,3 +687,4 @@ Added proper error handling
 Fixed code formatting issues - 999
 Updated README with new instructions - build 247
 Updated configuration settings - build 223
+Added proper error handling - v8.1.4
