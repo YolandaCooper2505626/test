@@ -104,3 +104,4 @@ Updated version number - v4.0.4
 Updated version number - update 48
 Fixed critical bug in main module - 843
 Fixed typo in documentation - 816
+Added new feature for better user experience
