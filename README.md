@@ -98,3 +98,4 @@ Refactored code for better maintainability - update 34
 Added detailed comments for clarity
 Updated version number - update 37
 Updated project documentation - update 42
+Updated project documentation - v1.6.1
