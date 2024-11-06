@@ -152,3 +152,4 @@ Fixed code formatting issues - v4.2.9
 Refactored code for better maintainability
 Improved performance optimization - build 477
 Refactored code for better maintainability - build 850
+Updated README with new instructions
