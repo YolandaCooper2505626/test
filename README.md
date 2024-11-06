@@ -157,3 +157,4 @@ Updated version number - build 898
 Updated styling and themes
 Updated project documentation - update 25
 Fixed memory management issue - v3.3.1
+Updated project documentation - 880
