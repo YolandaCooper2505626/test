@@ -137,3 +137,4 @@ Added detailed comments for clarity
 Updated dependencies to latest versions - 947
 Added new feature for better user experience - 85
 Code cleanup and formatting - update 10
+Updated README with new instructions - build 965
