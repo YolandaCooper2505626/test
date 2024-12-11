@@ -982,3 +982,4 @@ Added new feature for better user experience - 665
 Fixed code formatting issues - 353
 Updated version number - v10.9.6
 Added detailed comments for clarity - 386
+Updated dependencies to latest versions - 344
