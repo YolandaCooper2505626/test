@@ -567,3 +567,4 @@ Added new feature for better user experience - 838
 Improved performance optimization - v7.8.8
 Fixed code formatting issues - build 507
 Fixed code formatting issues - build 474
+Optimized algorithm for better efficiency - v9.5.1
