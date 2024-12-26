@@ -580,3 +580,4 @@ Code cleanup and formatting
 Fixed memory management issue - v2.5.9
 Updated dependencies to latest versions - build 704
 Code cleanup and formatting - v8.2.4
+Fixed code formatting issues - update 26
