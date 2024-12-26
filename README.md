@@ -582,3 +582,4 @@ Updated dependencies to latest versions - build 704
 Code cleanup and formatting - v8.2.4
 Fixed code formatting issues - update 26
 Fixed memory management issue - 830
+Fixed code formatting issues - update 46
