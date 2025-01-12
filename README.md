@@ -78,3 +78,4 @@ Updated README with new instructions - v8.5.2
 Added new feature for better user experience - build 206
 Updated dependencies to latest versions - update 4
 Added input validation - build 197
+Fixed critical bug in main module - 927
