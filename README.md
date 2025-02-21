@@ -210,3 +210,4 @@ Updated dependencies to latest versions
 Added new feature for better user experience
 Updated dependencies to latest versions - 977
 Improved performance optimization - v1.2.9
+Refactored code for better maintainability - v6.2.6
