@@ -513,3 +513,4 @@ Fixed memory management issue - update 2
 Updated configuration settings - 514
 Fixed code formatting issues - 897
 Fixed code formatting issues - 587
+Fixed memory management issue - build 696
