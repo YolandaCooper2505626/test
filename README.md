@@ -74,3 +74,4 @@ Added input validation - build 788
 Updated configuration settings - v3.6.5
 Refactored code for better maintainability - v8.4.3
 Added proper error handling
+Updated README with new instructions - v8.5.2
