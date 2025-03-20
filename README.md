@@ -72,3 +72,4 @@ Updated configuration settings - update 41
 Fixed typo in documentation - 240
 Added input validation - build 788
 Updated configuration settings - v3.6.5
+Refactored code for better maintainability - v8.4.3
