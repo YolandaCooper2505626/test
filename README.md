@@ -716,3 +716,4 @@ Added new feature for better user experience - v4.6.6
 Optimized algorithm for better efficiency - v3.8.5
 Updated version number
 Updated dependencies to latest versions
+Code cleanup and formatting - 560
