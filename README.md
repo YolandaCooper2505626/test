@@ -713,3 +713,4 @@ Fixed typo in documentation
 Updated project documentation - build 171
 Fixed typo in documentation - 903
 Added new feature for better user experience - v4.6.6
+Optimized algorithm for better efficiency - v3.8.5
