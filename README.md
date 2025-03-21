@@ -709,3 +709,4 @@ Updated version number - 207
 Added input validation
 Added new feature for better user experience - v2.8.1
 Improved user interface design
+Fixed typo in documentation
