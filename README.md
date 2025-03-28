@@ -998,3 +998,4 @@ Optimized algorithm for better efficiency - 516
 Fixed code formatting issues - build 411
 Code cleanup and formatting - v3.9.7
 Code cleanup and formatting
+Updated README with new instructions - update 31
