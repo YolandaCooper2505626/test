@@ -1001,3 +1001,4 @@ Code cleanup and formatting
 Updated README with new instructions - update 31
 Updated configuration settings - update 40
 Code cleanup and formatting - v4.7.1
+Fixed code formatting issues
