@@ -999,3 +999,4 @@ Fixed code formatting issues - build 411
 Code cleanup and formatting - v3.9.7
 Code cleanup and formatting
 Updated README with new instructions - update 31
+Updated configuration settings - update 40
