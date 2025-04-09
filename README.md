@@ -768,3 +768,4 @@ Fixed memory management issue - v2.7.5
 Fixed memory management issue
 Improved performance optimization - update 27
 Optimized algorithm for better efficiency - v10.8.9
+Added detailed comments for clarity - update 48
