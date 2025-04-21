@@ -447,3 +447,4 @@ Fixed typo in documentation
 Fixed typo in documentation - update 40
 Updated project documentation - v7.3.4
 Updated configuration settings - build 347
+Improved user interface design - update 28
