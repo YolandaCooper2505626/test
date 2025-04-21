@@ -438,3 +438,4 @@ Updated styling and themes - update 34
 Fixed memory management issue - 214
 Added input validation - build 587
 Updated README with new instructions - update 46
+Improved user interface design - v1.7.0
