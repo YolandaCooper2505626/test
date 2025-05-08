@@ -912,3 +912,4 @@ Updated dependencies to latest versions - 550
 Updated configuration settings - 364
 Optimized algorithm for better efficiency - build 646
 Code cleanup and formatting - update 9
+Updated README with new instructions - 50
