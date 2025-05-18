@@ -609,3 +609,4 @@ Updated version number - 203
 Updated project documentation - 523
 Optimized algorithm for better efficiency
 Fixed critical bug in main module - build 657
+Added new feature for better user experience - v5.1.0
