@@ -616,3 +616,4 @@ Updated version number
 Updated configuration settings - 236
 Added detailed comments for clarity
 Added detailed comments for clarity - 269
+Refactored code for better maintainability
