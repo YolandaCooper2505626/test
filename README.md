@@ -613,3 +613,4 @@ Added new feature for better user experience - v5.1.0
 Fixed memory management issue - update 16
 Improved user interface design
 Updated version number
+Updated configuration settings - 236
