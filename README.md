@@ -931,3 +931,4 @@ Updated dependencies to latest versions - 853
 Updated styling and themes - update 43
 Updated version number
 Added input validation - v6.2.1
+Added proper error handling - 970
