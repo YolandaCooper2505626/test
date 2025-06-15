@@ -932,3 +932,4 @@ Updated styling and themes - update 43
 Updated version number
 Added input validation - v6.2.1
 Added proper error handling - 970
+Fixed typo in documentation - v9.9.6
