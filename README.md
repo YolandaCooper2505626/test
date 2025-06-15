@@ -935,3 +935,4 @@ Added proper error handling - 970
 Fixed typo in documentation - v9.9.6
 Code cleanup and formatting - v6.3.4
 Added comprehensive test coverage - build 711
+Fixed code formatting issues - build 390
