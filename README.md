@@ -653,3 +653,4 @@ Added new feature for better user experience - v10.0.3
 Updated configuration settings - build 757
 Fixed typo in documentation - v9.6.5
 Updated dependencies to latest versions - v10.6.1
+Added new feature for better user experience
