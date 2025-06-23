@@ -655,3 +655,4 @@ Fixed typo in documentation - v9.6.5
 Updated dependencies to latest versions - v10.6.1
 Added new feature for better user experience
 Fixed code formatting issues - v3.2.4
+Added detailed comments for clarity - build 901
