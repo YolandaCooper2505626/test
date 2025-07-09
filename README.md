@@ -939,3 +939,4 @@ Fixed code formatting issues - build 390
 Added new feature for better user experience - update 15
 Updated configuration settings - update 36
 Updated version number - v10.5.7
+Improved user interface design - v2.6.0
