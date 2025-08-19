@@ -372,3 +372,4 @@ Improved user interface design - v3.0.0
 Updated dependencies to latest versions
 Updated dependencies to latest versions
 Updated version number - 382
+Updated configuration settings - v4.0.7
