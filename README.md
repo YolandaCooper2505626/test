@@ -289,3 +289,4 @@ Updated configuration settings - v8.5.8
 Added new feature for better user experience - v7.4.1
 Updated styling and themes
 Added new feature for better user experience - 129
+Code cleanup and formatting - build 198
