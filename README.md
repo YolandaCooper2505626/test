@@ -306,3 +306,4 @@ Updated project documentation - update 19
 Fixed memory management issue - 918
 Updated project documentation - build 190
 Added comprehensive test coverage - v6.4.8
+Fixed typo in documentation - build 960
