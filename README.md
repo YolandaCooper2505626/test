@@ -873,3 +873,4 @@ Updated version number - build 797
 Fixed memory management issue
 Added input validation - 689
 Code cleanup and formatting - build 749
+Updated README with new instructions - build 183
